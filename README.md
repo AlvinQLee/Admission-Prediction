@@ -8,6 +8,8 @@ Mohan S Acharya, Asfia Armaan, Aneeta S Antony : A Comparison of Regression Mode
 # Data Description
 This dataset has 500 rows and 9 columns. Each row represents a graduate school applicant. Each column represents a different aspect or measure of the admissions prediction.
 
+![](heatmap.png)
+
 # Conclusion
-4 different learning regressors (Linear Regression, SVM, Random Forest, and Gradient Boosting) were tested.
+3 different learning regressors (Linear Regression, Random Forest, and Gradient Boosting) were tested.
 ADD ON HERE
