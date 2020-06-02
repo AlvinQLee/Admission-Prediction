@@ -1,5 +1,6 @@
 # Project Goal
 The goal of this project is to understand the Graduate Admissions dataset, gain some insights from it, and finally to train a model that can predict the chances of graduate admissions.
+![](images/heatmap.png)
 
 # Data Source
 Mohan S Acharya, Asfia Armaan, Aneeta S Antony : A Comparison of Regression Models for Prediction of Graduate Admissions, IEEE International Conference on Computational Intelligence in Data Science 2019. 
@@ -10,6 +11,8 @@ This dataset has 500 rows and 9 columns. Each row represents a graduate school a
 
 # Conclusion
 3 different learning regressors (Linear Regression, Random Forest, and Gradiant Boosting) were tested, and we have acheived the best prediction performance using Linear Regression, followed by Gradiant Boosting, and then Random Forest.
+
+![](images/prediction.png)
 
 The best prediction performance was acheived using Linear Regression, using all features in the dataset, and resulted in the following metrics:
 MAE: 0.04396863063294708
