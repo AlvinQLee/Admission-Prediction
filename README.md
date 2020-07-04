@@ -14,7 +14,7 @@ This dataset has 500 rows and 9 columns. Each row represents a graduate school a
 # Conclusion
 3 different learning regressors (Linear Regression, Random Forest, and Gradiant Boosting) were tested, and we have acheived the best prediction performance using Linear Regression, followed by Gradiant Boosting, and then Random Forest.
 
-![](images/prediction.png)
+![](images/predictions.png)
 
 The best prediction performance was acheived using Linear Regression, using all features in the dataset, and resulted in the following metrics:  
   
